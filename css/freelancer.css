@@ -302,6 +302,31 @@ section.success a.active {
     max-width: 400px;
 }
 
+.preloader {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 4px;
+    left: 4px;
+       
+}
+
+.preloader2 {
+    position: absolute;
+     width: 64px;
+    height: 64px;
+    margin-left:25%;
+    margin-top:1%;
+}
+
+.preloader2-h2{
+    margin-left:40%;
+    font-color:#000000;
+    position: absolute;
+
+}
+
+
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
     width: 100%;
