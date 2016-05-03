@@ -177,8 +177,14 @@ header .intro-text .skills {
 
 .contact li a{
 	color: #ffffff;
+	
 }
 
+.contact li i{
+	font-size:16px;
+	
+	
+}
 .progress {
     height:26px !important;
     color:green;	
