@@ -175,6 +175,10 @@ header .intro-text .skills {
 	line-height:1.2em;
 }
 
+.contact li a{
+	color: #ffffff;
+}
+
 .progress {
     height:26px !important;
     color:green;	
