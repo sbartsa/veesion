@@ -337,9 +337,19 @@ section.success a.active {
     position: absolute;
      width: 64px;
     height: 64px;
-    margin-left:25%;
-    margin-top:1%;
+    margin-left:14%;
 }
+
+h4.preloader2 {
+    position: absolute;
+    font-size: 1.4em;
+    color: #DC5753;
+    text-align: center;
+    margin-top: 1.5%;
+    width: 300px;
+    /* overflow: hidden; */
+}
+
 
 .preloader2-h2{
     margin-left:40%;
